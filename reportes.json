@@ -1,0 +1,36 @@
+[
+    {
+        "folio": "001",
+        "cantidad": 10,
+        "nombre del producto": "Leche Deslactosada",
+        "tienda": "Walmart",
+        "precio unitario": 35.0,
+        "precio total": 350.0
+    },
+    {
+        "folio": "002",
+        "cantidad": 5,
+        "nombre del producto": "Crema Alpura (1 bote) 1/2 L",
+        "tienda": "Garis",
+        "precio unitario": 25.0,
+        "precio total": 125.0
+    }
+  ,
+    {
+        "folio": "003",
+        "cantidad": 15,
+        "nombre del producto": "Producto B",
+        "tienda": "Tienda 2",
+        "precio unitario": 200.0,
+        "precio total": 3000.0
+    }
+  ,
+    {
+        "folio": "004",
+        "cantidad": 25,
+        "nombre del producto": "Producto B",
+        "tienda": "Tienda 2",
+        "precio unitario": 200.0,
+        "precio total": 5000.0
+    }
+]
